@@ -9,7 +9,12 @@
   
   <p>
     Welcome to my repository where I'm learning and practicing both Python and COBOL
-Edit: COBOL will be in a different repo. 
+<p>
+  <i> Edit: COBOL will be in a different repo. </i>
+ 
+</p>
+
+<p>
     Here’s what you can expect to find:
   </p>
   
