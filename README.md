@@ -8,7 +8,8 @@
   <h1>Learning Python and COBOL</h1>
   
   <p>
-    Welcome to my repository where I'm learning and practicing both Python and COBOL. 
+    Welcome to my repository where I'm learning and practicing both Python and COBOL
+Edit: COBOL will be in a different repo. 
     Here’s what you can expect to find:
   </p>
   
